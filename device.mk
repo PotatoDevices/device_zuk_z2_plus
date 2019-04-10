@@ -38,5 +38,9 @@ PRODUCT_PACKAGES += \
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
+# Ramdisk
+PRODUCT_PACKAGES += \
+    init.zuk.rc
+
 # Vendor properties
 -include $(LOCAL_PATH)/vendor_prop.mk
