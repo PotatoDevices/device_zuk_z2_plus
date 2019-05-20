@@ -1,0 +1,17 @@
+[
+ {
+   "repository" : "device_zuk_msm8996-common",
+   "target_path": "device/zuk/msm8996-common",
+   "branch" : "baked-release"
+ },
+ {
+   "repository" : "vendor_zuk",
+   "target_path": "vendor/zuk",
+   "branch" : "baked-release"
+ },
+ {
+   "repository" : "kernel_zuk_msm8996",
+   "target_path": "kernel/zuk/msm8996",
+   "branch" : "baked-release"
+ }
+]

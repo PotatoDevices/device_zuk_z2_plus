@@ -1,2 +1,2 @@
-add_lunch_combo pixys_z2_plus-userdebug
-add_lunch_combo pixys_z2_plus-eng
+add_lunch_combo potato_z2_plus-userdebug
+add_lunch_combo potato_z2_plus-eng
